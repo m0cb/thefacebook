@@ -1,0 +1,77 @@
+*{
+}
+
+/* Banner do site */
+.banner {
+  background-color: #3B5999;
+  width: 700px;
+  height: 70px;
+  margin: auto;
+  border-top: 1px solid #3B5999;
+  border-left: 1px solid #3B5999;
+  border-right: 1px solid #3B5999;
+  display: flex;
+}
+
+.logo-right {
+  position: relative;
+  width: 700px1;
+  left: 70px;
+}
+
+a {
+  font-family:  Arial, Helvetica, sans-serif;
+  font-size: 11px;
+  position: relative;
+  text-decoration: none;
+  color: white;
+  width: 700px;
+  top: 53px;
+  right: 234px;
+  padding: 0 10px;
+}
+
+a:hover {
+  color: #a7b7da;
+}
+
+.body {
+  padding: 2px;
+  display: flex;
+  height: 500px;
+  width: 700px;
+  margin: auto;
+  border: 1px solid #3B5999;
+}
+
+.login {
+  font-family:  Arial, Helvetica, sans-serif;
+  font-size: 11px;
+  text-align: right;
+  align-items: center;
+  width: 150px;
+  height: 100px;
+  border: 2px dotted #3B5999;
+  padding: 3px;
+}
+
+.e-mail {
+  width: 143px;
+}
+
+.password {
+  width: 143px;
+}
+
+.top-message {
+  background-color: #3B5999;
+  font-family:  Arial, Helvetica, sans-serif;
+  padding: 3px;
+  color: white;
+  font-size: 12px;
+}
+
+.welcome-message {
+  border: 1px solid red;
+  width: 546px;
+}
