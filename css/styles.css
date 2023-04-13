@@ -88,19 +88,20 @@ label {
 
 .message-section {
   font-family:  Arial, Helvetica, sans-serif;
-  font-size: 12px;
+  font-size: 13px;
   border: 1px solid var(--primary-blue);
   width: 546px;
-  height: 360px;
+  height: 374px;
 }
 
 .loginBtns {
 text-align: center;
+
 }
 
 .btnLogin, .btnRegister {
   background: #538ADC;
-  font-size: 10px;
+  font-size: 11px;
   color: white;
   border-bottom: 2px solid var(--primary-blue);
   border-right: 2px solid var(--primary-blue);
@@ -114,7 +115,7 @@ text-align: center;
 
 .welcome-message-child {
   padding-left: 10px;
-  padding-right: 64px;
+  padding-right: 49px;
 }
 
 ul {
@@ -129,7 +130,7 @@ ul {
 
 .footer-menu {
   position: relative;
-  top: -78px;
+  top: -66px;
   font-family:  Arial, Helvetica, sans-serif;
   text-align: center;
   font-size: 11px;
@@ -148,7 +149,7 @@ ul {
 
 .footer-about {
   position: relative;
-  top: -91px;
+  top: -66px;
   font-family:  Arial, Helvetica, sans-serif;
   text-align: center;
   font-size: 11px;
