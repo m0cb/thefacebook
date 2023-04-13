@@ -26,13 +26,14 @@
   position: relative;
   text-decoration: none;
   color: white;
+  height: 12px;
   width: 700px;
   top: 53px;
   right: 234px;
   padding: 0 10px;
 }
 
-banner-options:hover {
+.banner-options:hover {
   color: #a7b7da;
 }
 
